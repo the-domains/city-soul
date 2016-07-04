@@ -1,0 +1,14 @@
+layout_spectrum: 0.1245758596342057
+typography_spectrum: 0.31167253223247826
+color:
+  brandStrength: 0.27790664532221854
+  lightness: 0.49773312034085393
+  saturation: 0.08417653408832848
+  rhythmicContrast: 0.6766107168514282
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+name: City Soul
